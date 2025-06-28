@@ -20,13 +20,13 @@ Build a file-based data management system using *ISAM* that supports:
 - *FastAPI* – for building web APIs
 - *Pydantic* – for data validation
 - *OS module* – for file operations
-
----
+- *Postman tool* - for testing and interacting with the APIs developed
 
 📄 Features:
 - Store and manage student records in a file
 - Search records by name,roll no,marks,email
 - Perform operations using web API(FastAPI)
+- Testing API performance on Postman tool
 
 ✅ Core Functions:
 - Insert new record to file
@@ -40,7 +40,7 @@ Build a file-based data management system using *ISAM* that supports:
 - Search by *email* or *roll number* pattern
 
   How to Run the project
-1. Install reuired libraries
+1. Install required libraries
 2. Run the FastAPI app
 3. Open the browser and go to:
    https://127.0.0.1:8000
