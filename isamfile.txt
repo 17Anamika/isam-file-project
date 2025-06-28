@@ -1,4 +1,3 @@
- name = ma,mayank,04511502822,mayank@gmail.com,75.0
 1,sakshi,03311502822,sakshi@gmail.com,79.0
 3,sahil,03911502822,sahil2@gmail.com,87.0
 2,saksham,05511502822,saksham2@gmail.com,85.0
