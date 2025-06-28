@@ -1,0 +1,10 @@
+ name = ma,mayank,04511502822,mayank@gmail.com,75.0
+1,sakshi,03311502822,sakshi@gmail.com,79.0
+3,sahil,03911502822,sahil2@gmail.com,87.0
+2,saksham,05511502822,saksham2@gmail.com,85.0
+4,mansi,05011502822,mansi77@gmail.com,80.0
+5,manas,04211502822,manas01@gmail.com,81.0
+6,manav,03511502822,manav00@gmail.com,65.0
+7,ananya,04411502822,ananya1234@gmail.com,87.0
+8,anamika,05211502822,anamika00@gmail.com,85.0
+9,anshika,05311502822,anshika44@gmail.com,75.0
